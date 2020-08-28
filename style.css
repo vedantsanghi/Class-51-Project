@@ -10,6 +10,12 @@ h1 {
 .Menu{
   font-style: oblique;
 }
+a:link{
+color: blue;
+}
+a:visited{
+color: purple;
+}
 .main{ 
     /* font-weight: 200; */
     font-style: oblique;
